@@ -1,2 +1,5 @@
-# IT115-final-project
-IT115 final exam project
+# This is a readme:
+
+ - ### Hello
+	 - This is a *readme*. 
+	 - `(this text has a different colored background!)`
